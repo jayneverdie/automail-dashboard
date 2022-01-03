@@ -1,0 +1,71 @@
+body, .logo-lg, .logo-mini {
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: "Boon", sans-serif !important; 
+}
+
+.btn-control {
+  margin-bottom: 20px;
+}
+
+.tip-yellowsimple {
+  z-index: 1000;
+  text-align: left;
+  border: 1px solid #c7bf93;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  padding: 10px;
+  color: #000;
+  background-color: #fff9c9;
+}
+
+.select2-selection__choice {
+  color: #000000 !important;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  width: 30px;
+}
+
+.user-footer a {
+  text-align: left;
+}
+
+.center-360 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+}
+
+.center-480 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+  background-color: #eeeeee;
+  padding: 10px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+  color: #666666;
+  background: #ffffff;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>img {
+  height: 120px;
+  width: 120px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+  height: 175px;
+  padding-top: 10px;
+  text-align: center;
+}

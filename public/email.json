@@ -1,0 +1,380 @@
+{
+  "account": [
+    "chiraporn_o@deestone.com",
+    "kanittha_s@deestone.com",
+    "buarien_k@deestone.com",
+    "porntip_s@deestone.com",
+    "netnapha_n@deestone.com",
+    "netdow_a@deestone.com",
+    "sukanya_a@deestone.com",
+    "sarocha_m@deestone.com"
+  ],
+  "finance": [
+    "alintheeta_w@deestone.com",
+    "pramate_p@deestone.com",
+    "boonreon_r@deestone.com",
+    "jaruphan_i@deestone.com",
+    "kannika_w@deestone.com",
+    "jirapat_p@deestone.com",
+    "salinee_p@deestone.com",
+    "kritsana_p@deestone.com"
+  ],
+  "report_fail": {
+    "shipping": [
+      "witchuta_v@deestone.com"
+    ],
+    "booking": [
+      "kanokporn_s@deestone.com"
+    ]
+  },
+  "camso": {
+    "c1441": {
+      "slk": {
+        "to": [
+          "Harshana.Kuruppu@camso.co",
+          "Nalin.Chamara@camso.co"
+        ],
+        "cc": [
+          "Stella.Dason@camso.co",
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "Rakhitha.Wijekoon@camso.co",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      }
+    },
+    "c2536": {
+      "can": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "egy": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "fra": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "deu": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "mex": {
+        "to": [
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "Stella.Dason@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "pol": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "tur": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "vnm": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      },
+      "usa": {
+        "blo": {
+          "to": [
+            "Stella.Dason@camso.co",
+            "Harshana.Kuruppu@camso.co"
+          ],
+          "cc": [
+            "Charitha.Priyadarshana@camso.co",
+            "Dewanmini.Ariyasena@camso.co",
+            
+            "Nalin.Chamara@camso.co",
+            
+            "Prabath.Karunarathna@camso.co",
+            "Priyantha.Kumarathunga@camso.co",
+            "rattana_c@deestone.com",
+            "khanittha_p@deestone.com",
+            "acharapron_i@deestone.com",
+            "aroonrung_p@deestone.com",
+            "Nivedha.Srinivasan@camso.co"
+          ]
+        },
+        "chr": {
+          "to": [
+            "Stella.Dason@camso.co",
+            "Harshana.Kuruppu@camso.co"
+          ],
+          "cc": [
+            "Charitha.Priyadarshana@camso.co",
+            "Dewanmini.Ariyasena@camso.co",
+            
+            "Nalin.Chamara@camso.co",
+            
+            "Prabath.Karunarathna@camso.co",
+            "Priyantha.Kumarathunga@camso.co",
+            "rattana_c@deestone.com",
+            "khanittha_p@deestone.com",
+            "acharapron_i@deestone.com",
+            "aroonrung_p@deestone.com",
+            "Nivedha.Srinivasan@camso.co"
+          ]
+        },
+        "hou": {
+          "to": [
+            "Stella.Dason@camso.co",
+            "Harshana.Kuruppu@camso.co"
+          ],
+          "cc": [
+            "Charitha.Priyadarshana@camso.co",
+            "Dewanmini.Ariyasena@camso.co",
+            
+            "Nalin.Chamara@camso.co",
+            
+            "Prabath.Karunarathna@camso.co",
+            "Priyantha.Kumarathunga@camso.co",
+            "rattana_c@deestone.com",
+            "khanittha_p@deestone.com",
+            "acharapron_i@deestone.com",
+            "aroonrung_p@deestone.com",
+            "Nivedha.Srinivasan@camso.co"
+          ]
+        },
+        "jol": {
+          "to": [
+            "Harshana.Kuruppu@camso.co"
+          ],
+          "cc": [
+            "Charitha.Priyadarshana@camso.co",
+            "Dewanmini.Ariyasena@camso.co",
+            
+            "Nalin.Chamara@camso.co",
+            
+            "Prabath.Karunarathna@camso.co",
+            "Priyantha.Kumarathunga@camso.co",
+            "Stella.Dason@camso.co",
+            "rattana_c@deestone.com",
+            "khanittha_p@deestone.com",
+            "acharapron_i@deestone.com",
+            "aroonrung_p@deestone.com",
+            "Nivedha.Srinivasan@camso.co"
+          ]
+        },
+        "rvs": {
+          "to": [
+            "Stella.Dason@camso.co",
+            "Harshana.Kuruppu@camso.co"
+          ],
+          "cc": [
+            "Charitha.Priyadarshana@camso.co",
+            "Dewanmini.Ariyasena@camso.co",
+            "Nalin.Chamara@camso.co",
+            "Prabath.Karunarathna@camso.co",
+            "Priyantha.Kumarathunga@camso.co",
+            "Nivedha.Srinivasan@camso.co",
+            "rattana_c@deestone.com",
+            "aroonrung_p@deestone.com",
+            "Khanittha_p@deestone.com",
+            "suchada_u@deestone.com",
+            "pichet@deestone.com"
+          ]
+        }
+      },
+      "gbr": {
+        "to": [
+          "Stella.Dason@camso.co",
+          "Harshana.Kuruppu@camso.co"
+        ],
+        "cc": [
+          "Thilini.Thusharika@camso.co",
+          "Charitha.Priyadarshana@camso.co",
+          "Dewanmini.Ariyasena@camso.co",
+          
+          "Nalin.Chamara@camso.co",
+          "Prabath.Karunarathna@camso.co",
+          "Priyantha.Kumarathunga@camso.co",
+          "Sujani.Wijekoon@camso.co",
+          "Susantha.Samarakoon@camso.co",
+          "rattana_c@deestone.com",
+          "khanittha_p@deestone.com",
+          "acharapron_i@deestone.com",
+          "witchuta_v@deestone.com",
+          "aroonrung_p@deestone.com",
+          "Nivedha.Srinivasan@camso.co"
+        ]
+      }
+    },
+    "isf": {
+      "to": [
+        "solidealisf@bdpnet.com",
+        "camso@bdpint.com"
+      ],
+      "cc": [
+        "Charitha.Priyadarshana@camso.co",
+        "dc.csrsrilanka@camso.co",
+        "Dewanmini.Ariyasena@camso.co",
+        "elizabeth.thompson@bdpint.com",
+        "Gregory.Pintelon@camso.co",
+        "Harshana.Kuruppu@camso.co",
+        "Nalin.Chamara@camso.co",
+        "Nihal.Wijerathne@camso.co",
+        "paige.mangan@bdpint.com",
+        "Prabath.Karunarathna@camso.co",
+        "Priyantha.Kumarathunga@camso.co",
+        "sap.automails@camso.co",
+        "Stella.Dason@camso.co",
+        "Stella.Wang@camso.co",
+        "Susantha.Samarakoon@camso.co",
+        "Thilini.Thusharika@camso.co",
+        "suchada_u@deestone.com",
+        "rattana_c@deestone.com",
+        "khanittha_p@deestone.com",
+        "doc.dsc@deestone.com",
+        "doc.ds@deestone.com",
+        "lori.williams@bdpint.com",
+        "aroonrung_p@deestone.com",
+        "pichet@deestone.com"
+      ]
+    }
+  }
+}

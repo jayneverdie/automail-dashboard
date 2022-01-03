@@ -1,0 +1,18 @@
+.tb-selected {
+  background:#cccccc !important;
+  color: #000000;
+}
+
+.editable-click, 
+.editable-click:hover {
+  color: #333333;
+}
+
+.editable-empty,
+.editable-empty:hover {
+  color: red;
+}
+
+.dataTables_filter {
+  display: none;
+}
